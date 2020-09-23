@@ -1,3 +1,3 @@
-const Aux = (props) =>  props.children;
+const Auxillary = (props) =>  props.children;
 
-export default Aux;
+export default Auxillary;
