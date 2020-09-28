@@ -7,12 +7,6 @@ class App extends Component {
     show: true
   }
 
-  componentDidMount() {
-    setTimeout(() => {
-      this.setState({show: false});
-    }, 5000);
-  }
-  
   render() {
     return(
       <div>
